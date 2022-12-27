@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-hengra',
+        'https://github.com/sistemasdehudson/cl-hengra.git',
         'https://github.com/regaby/odoo-custom.git',
         ##'https://github.com/regaby/l10n_ar_fe_qr',
         'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
